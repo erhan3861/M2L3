@@ -1,0 +1,10 @@
+Hiper metin (İngilizce hypertext), bilgisayar ekranı ya da diğer elektronik cihazlarda gösterilen ve sadece yazıdan ibaret olmayan gelişmiş özelliklere sahip belgelerdir.
+
+
+Kelime kökeni
+Hiper kelimesinin kökeni Yunancadaki "ὑπερ-" kelimesine dayanmakta olup "ötesinde" ya da "üzerinde" gibi bir anlamı vardır. Hiper metinin standart metinin ötesinde özelliklere sahip olduğunu ifade eder.
+
+
+git kurulumu sonrası bir hata alınırsa bu kodlar terminale yazınız.
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
